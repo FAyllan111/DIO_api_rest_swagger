@@ -1,4 +1,4 @@
-# 🚀 **Projeto - Criando uma API REST Documentada com Swagger**
+# 🔧 **Projeto - Criando uma API REST Documentada com Swagger**
 
 Este projeto foi desenvolvido no **Bootcamp Java Cloud Native - DIO & Bradesco** para praticar a criação e documentação de **APIs REST** utilizando **Spring Boot 3** e **Swagger (OpenAPI)**.  
 
